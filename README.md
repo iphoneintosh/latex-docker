@@ -1,4 +1,4 @@
-# Latex Docker Container with full TeX Live System
+# Latex Docker Container with full TeX Live System installed in Ubuntu 20.04
 
 > Just compile latex and don't waste time installing stuff.
 
