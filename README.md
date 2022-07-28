@@ -6,7 +6,10 @@
 
 - Clone this repository: `git clone https://github.com/iphoneintosh/latex-docker.git && cd latex-docker`
 - Build the Docker image: `docker build -t latex-docker .`
-  - Since the full TeX Live repo is used, this may take a while.
+  - Since the full TeX Live repo is installed, this may take a while.
+
+Alternatively, you can use the pre-build image from [Docker Hub](https://hub.docker.com/repository/docker/iphoneintosh/latex-docker).
+To use this image, simply replace `latex-docker` with `iphoneintosh/latex-docker:latest` in the run commands below.
 
 ## Run
 
